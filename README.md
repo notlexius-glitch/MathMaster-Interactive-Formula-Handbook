@@ -1,5 +1,9 @@
 # 📚 MathMaster – Interactive Formula Handbook
 
+## 📌 Motto
+Learn. Revise. Master Mathematics — Simplified for Every Student.
+
+
 ## 📌 Overview
 MathMaster is an interactive mathematics formula handbook designed to help students quickly revise and understand important formulas from different mathematical chapters.
 
@@ -81,19 +85,23 @@ MathMaster/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![alt text](<Screenshot 2026-06-15 130736.png>)
+<img width="1880" height="538" alt="Screenshot 2026-06-15 130736" src="https://github.com/user-attachments/assets/114feff9-f2be-43f1-a7ae-6018061e0a37" />
+
 
 ### 🔍 Search Feature
-c:\Users\Atul\OneDrive\Pictures\Screenshots\Screenshot 2026-06-15 130754.png
+<img width="1898" height="962" alt="Screenshot 2026-06-15 130754" src="https://github.com/user-attachments/assets/b1c9b9ef-0f46-4e6f-93a8-b9521443b67a" />
 
 ### 📚 Chapter View
-![alt text](<Screenshot 2026-06-15 130811.png>)
+<img width="1907" height="607" alt="Screenshot 2026-06-15 130811" src="https://github.com/user-attachments/assets/635ba5e0-b48e-46db-a8f2-5f36e477afa0" />
+
 
 ### 📌 Cheat Sheet
-c:\Users\Atul\OneDrive\Pictures\Screenshots\Screenshot 2026-06-15 130846.png
+<img width="1883" height="972" alt="Screenshot 2026-06-15 130846" src="https://github.com/user-attachments/assets/bbea31f1-0dac-4b0f-b958-06972bd56eea" />
+
 
 ### 📌 Important
-![alt text](<Screenshot 2026-06-15 130902.png>)
+<img width="1878" height="963" alt="Screenshot 2026-06-15 130902" src="https://github.com/user-attachments/assets/85df7329-32f0-4660-8806-2ab59023864f" />
+
 ---
 
 ## 🚀 How to Run
@@ -106,3 +114,4 @@ git clone https://github.com/notlexius-glitch/MathMaster.git
 
 Not Lexius
 GitHub: https://github.com/notlexius-glitch
+
