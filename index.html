@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MathMaster - Interactive Formula Handbook</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>📚 MathMaster</h1>
+        <p>Your Interactive Mathematics Formula Handbook</p>
+
+        <!-- SEARCH BOX -->
+        <div class="search-box">
+            <input 
+                type="text" 
+                id="searchInput" 
+                placeholder="Search formulas... (quadratic, sin, mean, derivative)"
+            >
+        </div>
+
+        <!-- NO RESULT MESSAGE -->
+        <p id="noResult" style="display:none; color:white; margin-top:10px;">
+            No formulas found ❌
+        </p>
+    </header>
+
+    <main>
+
+        <section class="hero">
+            <h2>Learn, Revise, and Master Mathematics</h2>
+            <p>
+                Chapter-wise formula sheets + quick revision tools + interactive learning.
+            </p>
+        </section>
+
+        <section class="chapters">
+            <h2>Formula Chapters</h2>
+
+            <div class="chapter-grid">
+
+                <a href="chapters/algebra.html" class="card">
+                    <h3>Algebra</h3>
+                    <p>Identities, exponents, logarithms, quadratic equations.</p>
+                </a>
+
+                <a href="chapters/trigonometry.html" class="card">
+                    <h3>Trigonometry</h3>
+                    <p>Trig identities, angle formulas, standard values.</p>
+                </a>
+
+                <a href="chapters/calculus.html" class="card">
+                    <h3>Calculus</h3>
+                    <p>Derivatives, integrals, limits, differentiation rules.</p>
+                </a>
+
+                <a href="chapters/coordinate-geometry.html" class="card">
+                    <h3>Coordinate Geometry</h3>
+                    <p>Distance, midpoint, slope, equations of lines.</p>
+                </a>
+
+                <a href="chapters/probability.html" class="card">
+                    <h3>Probability</h3>
+                    <p>Probability rules, Bayes theorem, permutations.</p>
+                </a>
+
+                <a href="chapters/statistics.html" class="card">
+                    <h3>Statistics</h3>
+                    <p>Mean, median, mode, variance, standard deviation.</p>
+                </a>
+
+                <a href="chapters/matrices.html" class="card">
+                    <h3>Matrices</h3>
+                    <p>Matrix operations, determinants, inverse matrices.</p>
+                </a>
+
+                <a href="chapters/vectors.html" class="card">
+                    <h3>Vectors</h3>
+                    <p>Magnitude, dot product, cross product, unit vectors.</p>
+                </a>
+
+                <a href="cheatsheet.html" class="card">
+                    <h3>⚡ Cheat Sheet</h3>
+                    <p>Quick revision formulas for exam preparation.</p>
+                </a>
+
+                <a href="important-formulas.html" class="card">
+                    <h3>⭐ Important Formulas</h3>
+                    <p>Chapter-wise high priority formulas for fast revision.</p>
+                </a>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 MathMaster | Open Source Educational Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
