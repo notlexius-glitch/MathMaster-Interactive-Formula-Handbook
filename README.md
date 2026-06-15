@@ -78,7 +78,22 @@ MathMaster/
 ├── cheatsheet.html
 └── important-formulas.html
 
+## 📸 Screenshots
 
+### 🏠 Home Page
+![alt text](<Screenshot 2026-06-15 130736.png>)
+
+### 🔍 Search Feature
+c:\Users\Atul\OneDrive\Pictures\Screenshots\Screenshot 2026-06-15 130754.png
+
+### 📚 Chapter View
+![alt text](<Screenshot 2026-06-15 130811.png>)
+
+### 📌 Cheat Sheet
+c:\Users\Atul\OneDrive\Pictures\Screenshots\Screenshot 2026-06-15 130846.png
+
+### 📌 Important
+![alt text](<Screenshot 2026-06-15 130902.png>)
 ---
 
 ## 🚀 How to Run
